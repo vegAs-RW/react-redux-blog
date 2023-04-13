@@ -1,4 +1,4 @@
-# Cours Redux
+# Simple react app for pratice react/redux
 
 ** INSTALLER REDUX **
 npm i -s redux react-redux @reduxjs/toolkit @redux-devtools/extension
